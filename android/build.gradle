@@ -41,6 +41,8 @@ android {
         sourceCompatibility 1.8
         targetCompatibility 1.8
     }
+
+    namespace "com.ryanheise.audio_session"
 }
 
 dependencies {
